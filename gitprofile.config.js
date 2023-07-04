@@ -87,10 +87,10 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Version Control System',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'Built a minature version of git version control system. Please request access by email to view the repository.',
+      imageUrl: 'https://www.flaticon.com/free-icon/github-logo_25231',
       link: 'https://example.com',
     },
     {
