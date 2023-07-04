@@ -72,6 +72,7 @@ const Experience = ({ experiences, loading }) => {
                         companyLink={
                           experience.companyLink ? experience.companyLink : null
                         }
+                        description={experience.description}
                       />
                     ))}
                   </Fragment>

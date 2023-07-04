@@ -66,6 +66,7 @@ const config = {
       from: 'May 2022',
       to: 'August 2022',
       companyLink: 'https://www.servicenow.com/',
+      description: 'Worked on the ServiceNow Platform team.',
     }
   ],
   /* certifications: [
