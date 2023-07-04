@@ -44,8 +44,8 @@ const Experience = ({ experiences, loading }) => {
   return (
     <>
       {experiences?.length !== 0 && (
-        <div className="card shadow-lg compact bg-base-100">
-          <div className="card-body">
+        <div className="card shadow-lg compact bg-base-100 w-full">
+          <div className="card-body h-full">
             <div className="mx-3">
               <h5 className="card-title">
                 {loading ? (
