@@ -47,19 +47,26 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'ServiceNow',
+      position: 'Software Engineering Intern - Backend',
+      from: 'May 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.servicenow.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Sandia National Laboratories',
+      position: 'Data Science Research Intern',
+      from: 'March 2023',
+      to: 'July 2023',
+      companyLink: '',
     },
+    {
+      company: 'ServiceNow',
+      position: 'Software Engineering Intern - Platform',
+      from: 'May 2022',
+      to: 'August 2022',
+      companyLink: 'https://www.servicenow.com/',
+    }
   ],
   /* certifications: [
     {
